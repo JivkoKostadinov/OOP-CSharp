@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMclass", "Defining Classes - Part 1\GSMclass.csproj", "{D6D2E88F-C81A-4C99-BE50-AFCC44D15E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battery.cs", "Battery.cs\Battery.cs.csproj", "{4AAF441F-0E1E-4B7F-A665-8307AA7177A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calls", "Calls\Calls.csproj", "{030C7811-5CB8-4968-8DBF-6816C6E7F1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactInformation", "ContactInformation\ContactInformation.csproj", "{0EF52A66-6DB2-433C-A8D1-C71DDA2AD998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display", "Display\Display.csproj", "{1423E040-13A3-45CD-A452-2C8027A38434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhone", "MobilePhone\MobilePhone.csproj", "{F157E111-B5F8-4127-B4CB-EA407493DF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhoneTests", "MobilePhoneTests\MobilePhoneTests.csproj", "{1E898426-1FB9-474F-B7A4-4CEE05F703DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D2E88F-C81A-4C99-BE50-AFCC44D15E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D2E88F-C81A-4C99-BE50-AFCC44D15E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D2E88F-C81A-4C99-BE50-AFCC44D15E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D2E88F-C81A-4C99-BE50-AFCC44D15E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAF441F-0E1E-4B7F-A665-8307AA7177A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAF441F-0E1E-4B7F-A665-8307AA7177A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAF441F-0E1E-4B7F-A665-8307AA7177A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAF441F-0E1E-4B7F-A665-8307AA7177A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030C7811-5CB8-4968-8DBF-6816C6E7F1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030C7811-5CB8-4968-8DBF-6816C6E7F1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030C7811-5CB8-4968-8DBF-6816C6E7F1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030C7811-5CB8-4968-8DBF-6816C6E7F1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF52A66-6DB2-433C-A8D1-C71DDA2AD998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF52A66-6DB2-433C-A8D1-C71DDA2AD998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF52A66-6DB2-433C-A8D1-C71DDA2AD998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF52A66-6DB2-433C-A8D1-C71DDA2AD998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1423E040-13A3-45CD-A452-2C8027A38434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1423E040-13A3-45CD-A452-2C8027A38434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1423E040-13A3-45CD-A452-2C8027A38434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1423E040-13A3-45CD-A452-2C8027A38434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F157E111-B5F8-4127-B4CB-EA407493DF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F157E111-B5F8-4127-B4CB-EA407493DF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F157E111-B5F8-4127-B4CB-EA407493DF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F157E111-B5F8-4127-B4CB-EA407493DF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E898426-1FB9-474F-B7A4-4CEE05F703DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E898426-1FB9-474F-B7A4-4CEE05F703DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E898426-1FB9-474F-B7A4-4CEE05F703DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E898426-1FB9-474F-B7A4-4CEE05F703DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
